@@ -10,7 +10,7 @@ module.exports = {
       zip: 6720,
       city: 'Szeged',
       street: 'Feketesas',
-      createdA: new Date(),
+      createdAt: new Date(),
       updatedAt: new Date()
     },
     {
@@ -21,7 +21,7 @@ module.exports = {
       zip: 6724,
       city: 'Szeged',
       street: 'Kunigunga',
-      createdA: new Date(),
+      createdAt: new Date(),
       updatedAt: new Date()
     },
     {
@@ -32,7 +32,7 @@ module.exports = {
       zip: 6725,
       city: 'Szeged',
       street: 'Pasztor',
-      createdA: new Date(),
+      createdAt: new Date(),
       updatedAt: new Date()
     }]);
   },
